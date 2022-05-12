@@ -1,0 +1,69 @@
+<!DOCTYPE html>    
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title> My First Website</title>
+    </head>
+    <body>
+        <h1>My First Website</h1>
+        <h2>My Practice Website</h2>
+        <h2> Website</h2>
+        
+        This is my very website and i <b>am very excited</b> <!--the b tag is to make things bold-->
+        
+        <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        
+        
+        </p>
+        
+        <p>
+            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+        
+        </p>
+        
+        
+        Contrary to popular belief, Lorem Ipsum is not simply random text.<br><br>  <!--the br tag is to give space-->
+        <b>It has roots in a piece of classical Latin literature from 45 BC,</b><br>   <!--the b tag is to make things bold-->
+        <i>making it over 2000 years old. Richard McClintock, a Latin professor</i><br> <!--the i tag is to make things italic-->
+        <u>at Hampden-Sydney College in Virginia, looked up one of the more</u><br>  <!--the u tag is to make things underlined-->
+        <strong>obscure Latin words, consectetur, from a Lorem Ipsum passage,</strong><br>  <!--the strong tag is to make things bold--> 
+        <hr>  <!--the hr tag is to make an horizontal line-->
+        <a href="https:www.google.com" target ="blank">and going through the cites of the word</a><br> <!--the a tag is to add links-->
+        in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+        <img src="1644447637916.jpg" width="156" height="122" border='10'>
+        
+        <ul> <!--the ul tag is to make a list--> 
+            <li>apples
+                <ul>
+                    <li>golden</li> <!--nesting a list in another list-->
+                    <li>brown</li>
+                    <li>gala</li>
+                </ul>
+            
+            
+            </li>
+            <li>mangos</li>
+            <li>banana</li>
+            <li>berry</li>   
+        </ul>
+        
+        <table border="10" cellpadding="10" cellspacing="5"> <!--creating a table tag-->
+            <tr>
+                <th>Name</th>
+                <th>Location</th>
+            </tr>
+            <tr>
+                <td>Elvis</td>
+                <td>Italy</td>
+            </tr>
+        
+        </table>
+        
+        
+    
+    </body>
+</html>
+
+
