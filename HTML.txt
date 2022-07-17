@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initail-scale=1">
+        <title>My First Website</title>
+
+    </head>
+    <body>
+        <h1>This is my first website</h1>
+        <h2>My html play ground</h2>
+        <h3>My play ground</h3>
+
+        This is my very first website and <b>i am very excited!!!</b>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum commodo nulla, eget semper tellus posuere a. Fusce nec efficitur risus. Ut elementum rutrum sagittis. Nunc diam magna, scelerisque sed tristique ac, venenatis ut massa. Sed eu sodales leo, vitae euismod sem. Ut eleifend vestibulum nibh ut tincidunt. Vestibulum pulvinar nulla vel nibh suscipit, vel gravida felis aliquet. Aliquam volutpat justo non mauris feugiat, et finibus orci maximus. Praesent lectus augue, gravida quis arcu faucibus, pharetra consectetur eros. Integer quis tincidunt enim, non ullamcorper mauris. Ut eu maximus sem. Pellentesque eget leo sit amet lacus laoreet placerat in a dui. Nunc convallis pulvinar imperdiet.
+            
+
+
+
+        </p>
+        
+
+        <p>
+            Cras ut neque id neque aliquet dictum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean erat ligula, maximus vel feugiat non, posuere vitae neque. Nulla vel finibus tortor. Cras vitae neque rutrum, lacinia urna eu, rhoncus ex. Morbi id bibendum diam. Curabitur imperdiet vitae est a viverra. Sed ac lacus a mauris ultrices interdum ac eget elit. Etiam mollis nulla tellus, ut ultrices nisi hendrerit at. Pellentesque lorem erat, pulvinar eget urna nec, interdum malesuada eros. Sed rutrum quis elit ac facilisis. Sed laoreet quis arcu sit amet auctor. Nam ullamcorper odio placerat, efficitur velit quis, tincidunt leo. Nulla non arcu in odio pretium sodales. Curabitur ut tortor vitae tortor convallis consequat.
+
+
+        </p>
+
+        Cras ut neque id neque aliquet dictum.<br> <br> <br> 
+        <b>Vestibulum ante ipsum primis in faucibus orci luctus</b><br>
+        <i>et ultrices posuere cubilia curae; Aenean erat ligula,</i><br>
+        <u>maximus vel feugiat non, posuere vitae neque. Nulla vel</u><br>
+        <em>inibus tortor. Cras vitae neque rutrum, lacinia urna eu</em><br> 
+        <strong>rhoncus ex. Morbi id bibendum diam. Curabitur imperdiet vitae est a</strong> 
+        <hr>   
+        kultrices interdum ac eget elit. Etiam mollis nulla tellus, ut ultrices nisi hendrerit at. Pellentesque lorem erat, pulvinar eget urna nec, interdum malesuada eros. Sed rutrum quis elit ac facilisis. Sed laoreet quis arcu sit amet auctor. Nam ullamcorper odio placerat, efficitur velit quis, tincidunt leo. Nulla non arcu in odio pretium sodales. Curabitur ut tortor vitae tortor convallis consequat.
+        <a href='https://www.google.com' target="_blank">viverra. Sed ac lacus a mauris</a>
+
+        
+        
+        <img src="1658062633289.jpg" width="156" height="122" border='5'>
+
+        <ol>
+            <li>golden</li> <!--nesting a list in another list-->
+            <li>brown</li>
+            <li>gala</li>
+        </ol>
+
+        <ul>
+            <li>golden</li> <!--nesting a list in another list-->
+            <li>brown</li>
+            <li>gala</li>
+        </ul>
+
+        <ul> <!--the ul tag is to make a list--> 
+            <li>apples
+                <ul>
+                    <li>golden</li> <!--nesting a list in another list-->
+                    <li>brown</li>
+                    <li>gala</li>
+                </ul>
+       
+
+        
+         <table border="10" cellpadding="10" cellspacing="5"> <!--creating a table tag-->
+                <tr>
+                    <th>Name</th>
+                    <th>Location</th>
+                </tr>
+                <tr>
+                    <td>Elvis</td>
+                    <td>Nigeria</td>
+                </tr>
+            
+        </table>
+
+    </body>
+</html>
+
